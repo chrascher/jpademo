@@ -35,6 +35,7 @@ import java.util.List;
  * https://en.wikibooks.org/wiki/Java_Persistence/JPQL
  *
  * @Author CGS-IT Solutions @2019
+ * @Version 1.1.0
  */
 public class Main {
     // Create an EntityManagerFactory when you start the application.
