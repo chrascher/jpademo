@@ -1,0 +1,12 @@
+
+
+
+select * from chats.account;
+
+delete from chats.account;
+
+insert into "chats"."account" ("user_id", "username", "password", "email") values(1, 'john', 'test', 'john@cgs.at');
+insert into "chats"."account" ("user_id", "username", "password", "email") values(2, 'chris', 'test', 'chris@cgs.at');
+insert into "chats"."account" ("user_id", "username", "password", "email") values(3, 'max', 'test', 'max@cgs.at')
+
+

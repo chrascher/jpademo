@@ -1,0 +1,23 @@
+#ignore thumbnails created by windows
+Thumbs.db
+
+# Ignore files created by eclipse
+*.project
+*.classpath
+**/.settings/
+**/.metadata/*
+
+**/target/
+**/.classpath
+**/.project
+**/.settings/
+**/.factorypath
+**/.tern-project
+
+# IntelliJ
+.idea/
+*.iml
+/bin/
+
+# Mac OS
+.DS_Store
